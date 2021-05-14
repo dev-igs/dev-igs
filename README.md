@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-igs
 - 👀 I’m interested in Web, HCI, ML,
-- 🌱 I’m currently learning UX
+- 🌱 I’m currently learning UX, Operating Systems
 
 <!---
 dev-igs/dev-igs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
